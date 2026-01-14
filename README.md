@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kaziamaan47
 - 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning Bachelor of Eng. in Computer Science & Engineering
-
+- 🌱 I’m currently learning Masters of Computer Science
 <!---
 kaziamaan47/kaziamaan47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
